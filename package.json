@@ -1,6 +1,6 @@
 {
   "name": "demo-double-bundle-withstyles",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "",
   "keywords": [],
   "main": "dist/demo-double-bundle-withstyles.umd.js",
